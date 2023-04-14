@@ -16,7 +16,7 @@ apt install nodejs npm
 
 npm install  axios node-summarizer cheerio cli-spinners natural cli-cursor readline
 
-# 4. Go to your Telegram, create a bot (user) and a room. Add this bot to the room.
+# 4. Go to your Telegram, create a Bot touch BotFather
 
 # 5. Change variables:
 
