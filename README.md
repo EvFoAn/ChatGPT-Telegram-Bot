@@ -35,5 +35,5 @@ node telegram.js
 
 # Request find from Internet must be as: "... " Exmample: "... where I can buy RPI 4 ?"
 
-![Example Image](descripton_first.png)
-![Example Image](descripton_last.png)
+[... Where can I buy RPI 4?](descripton_first.png)
+[What would you advise me to use from what you found?](descripton_last.png)
