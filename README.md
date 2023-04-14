@@ -31,3 +31,9 @@ const customSearchEngineId = 'YOUR_SEARCH_ENGINEID';
 # 6. Run the application
 
 node telegram.js
+
+
+# Request find from Internet must be as: "... " Exmample: "... where I can buy RPI 4 ?"
+
+![Example Image](descripton_first.png)
+![Example Image](descripton_last.png)
