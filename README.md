@@ -1,4 +1,4 @@
-ChatGPT RocketChat Bot
+ChatGPT Telegram Bot
 
 # ChatGPT Telegram Bot is an application based on the GPT-3.5 language model trained by OpenAI that can remember users' questions and answers and search for information in real-time on the internet, responding to questions based on content analysis. You can use this application as a bot for Telegram.
 
@@ -14,9 +14,9 @@ apt install nodejs npm
 
 # 3. Install dependencies
 
-npm install rocket.chat axios node-summarizer cheerio cli-spinners natural cli-cursor readline
+npm install  axios node-summarizer cheerio cli-spinners natural cli-cursor readline
 
-# 4. Go to your Rocket Chat, create a bot (user) and a room. Add this bot to the room.
+# 4. Go to your Telegram, create a bot (user) and a room. Add this bot to the room.
 
 # 5. Change variables:
 
