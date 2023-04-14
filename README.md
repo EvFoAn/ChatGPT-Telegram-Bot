@@ -6,7 +6,7 @@ ChatGPT RocketChat Bot
 
 # 1. Clone the repository
 
-git clone https://github.com/yourusername/ChatGPT-RocketChat-Bot.git
+git clone https://github.com/yourusername/ChatGPT-Telegram-Bot.git
 
 # 2. Install Node.js and npm
 
