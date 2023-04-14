@@ -33,7 +33,7 @@ const customSearchEngineId = 'YOUR_SEARCH_ENGINEID';
 node telegram.js
 
 
-# Request find from Internet must be as: "... " Exmample: "... where I can buy RPI 4 ?"
+Request find from Internet must be as: "... " Exmample: "... where I can buy RPI 4 ?"
 
 ![... Where can I buy RPI 4?](https://github.com/EvFoAn/ChatGPT-Telegram-Bot/blob/main/description_first.png)
 
