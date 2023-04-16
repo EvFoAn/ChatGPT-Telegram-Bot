@@ -80,7 +80,7 @@ const runBot = async () => {
 const findInformation = async (message, chatId) => {
   const msg = message.toLowerCase();
   // await sendMessage('typing ...', chatId);
-  const searchResults = await searchQuery(msg.slice(6));
+  const searchResults = await searchQuery(msg);
   // console.log("LOG001", searchResults)
   if (searchResults && searchResults.length > 0) {
     const linksToAnalyze = searchResults.map((result) => `${result.link}`).join("\n");
