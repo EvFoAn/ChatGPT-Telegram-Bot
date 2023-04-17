@@ -95,7 +95,7 @@ const findInformation = async (message, chatId) => {
       messages: [
              { role: 'system', content: 'You are a helpful assistant.' },
              { role: 'user', content: `Show the descriptions of pages: ${linksToAnalyze} and provide your comprehensive evaluation of the information found on the requests and the output of what you analyzed. This is title: ${tl} -> This is link: ${linksToAnalyze}. In formatting response, you must use: "[title](link)" must included 100% . Brackets and quotes must be preserved. Brief analysis of the page and overall conclusions for all pages - the analysis of the pages and general conclusions should be added.` },
-              // For use RUSSIAN LANG - { role: 'user', content: `Покажи описание страниц:${linksToAnalyze} дай свою комплексную оценку найденной информации по запросам и вывод того что ты анализировал. Это title:${tl} -> Это link:${linksToAnalyze}. В оформление своего ответа ты должен 100% использовать следующее: [title](link) ( скобки и кавычки должны быть сохранены ) | краткий анализ страницы и общие выводы по всем страницам - анализ страниц и общие вывод должны быть добавлены` },
+              // For use RUSSIAN LANG - { role: "user", content: `Покажи описание страниц:${linksToAnalyze} дай свою комплексную оценку найденной информации по запросам и вывод того что ты анализировал. Это title:${tl} -> Это link:${linksToAnalyze}. В оформление своего ответа ты должен 100% использовать следующее: [title](link) ( скобки и кавычки должны быть сохранены ) | анализ страницы и выводы по анализу по всем страницам - анализ страниц и вывод по анализу должны быть добавлены`,
 	        ],
       temperature: 0.0,
     };
